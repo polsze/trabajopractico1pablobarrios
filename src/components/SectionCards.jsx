@@ -94,7 +94,7 @@ const SectionCards = () => {
 
   return (
     <>
-      <section className='w-full h-min-screen bg-white'>
+      <section className='w-full h-min-screen bg-white' id="services">
         <div className='flex flex-row mt-24 justify-center sm:items-center sm:mt-0 sm:flex-col'>
         <motion.h3
           className="font-bold text-blue-950 text-6xl mb-4 sm:text-2xl"

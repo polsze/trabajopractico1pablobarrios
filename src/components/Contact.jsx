@@ -54,7 +54,7 @@ export const Contact = () => {
 
   return (
     <>
-    <section className='w-full sm:flex sm:flex-col'>
+    <section className='w-full sm:flex sm:flex-col' id="contact">
       <div className='my-36 sm:my-20' >
       <p className='text-center text-2xl uppercase text-orange-500 font-mono'>Subscribe</p>
       <h4 className='text-center text-5xl font-bold text-blue-950'>Contact Us</h4>
