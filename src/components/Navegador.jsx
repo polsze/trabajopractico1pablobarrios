@@ -12,7 +12,6 @@ const Navegador = () => {
     setMenuOpen(!menuOpen);
   };
 
-    // Función para manejar el clic en un elemento del menú y hacer scroll suave
     const scrollToSection = (sectionId) => {
       const section = document.getElementById(sectionId);
       if (section) {
@@ -20,11 +19,9 @@ const Navegador = () => {
       }
     };
   
-      // Función para manejar el clic en un elemento del menú en pantallas grandes
   const handleMenuClick = (item) => {
     scrollToSection(item.toLowerCase());
     if (window.innerWidth >= 768) {
-      // Si la pantalla es lo suficientemente grande, cierra el menú
       setMenuOpen(false);
     }
   };
