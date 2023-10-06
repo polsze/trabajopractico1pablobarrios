@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Trabajo práctico Nº 1 - Pablo Barrios
-=======
+
 # Trabajo Práctico Nº1 || Pablo Barrios
 
 # Portfolio con formulario funcional
@@ -18,7 +16,6 @@
  Contacto: polbarrios835237@gmail.com
 
 
->>>>>>> f28c56ba33d328114d37de4ebbafabb6685ed359
 
 
 
