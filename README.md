@@ -2,7 +2,7 @@
 
 # Portfolio con formulario funcional
            
-Proyecto elegido: ![](https://github.com/polsze/trabajopractico1pablobarrios/blob/main/tp12.png)
+ ![](https://github.com/polsze/trabajopractico1pablobarrios/blob/main/tp12.png)
 
  Tecnologías utilizadas: React Vite, TailwindCSS.
 
